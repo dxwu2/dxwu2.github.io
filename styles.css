@@ -201,7 +201,7 @@
 
 /* Welcome Page CSS */
 .main {
-    background-color: #141414;
+    background-color: #ffffff;
 }
 
 .main__container {
@@ -220,4 +220,10 @@
 
 .main__content h1 {
     font-size: 4rem
+}
+
+.main__content p {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
 }
